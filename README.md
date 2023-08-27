@@ -1,0 +1,3 @@
+# mobitech 
+https://swarnavap80.github.io/mobitech/
+Only for desktop site.... 
